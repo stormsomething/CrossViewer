@@ -13,7 +13,7 @@ Convert a 3-view drawing into a 3D model
 * 1 .obj file 3D model of the object
 
 ### How To Use:
-* Run CrossViewer.py.
+* Run CrossViewer.py using Python 2.
 * Enter the names of your 3 image files (without the ".png").
 * Enter the name you want the output to be saved under (without the ".txt" or ".obj").
 * Enter a maximum threshold value. Any pixel in the images which has at least one RGB value less than or equal to this value will be considered part of the object.
